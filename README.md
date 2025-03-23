@@ -14,7 +14,8 @@ A simple weather application that shows the current weather and a 6-day forecast
 	•	Geolocation API
 
 💻 How to Run
-	1.	Clone the repository:
+	
+ 	1.	Clone the repository:
 
 git clone https://github.com/your-username/WeatherApp.git
 
@@ -37,11 +38,3 @@ start index.html # Windows
 Replace the API key in main.js:
 
 let apiKey = "YOUR_API_KEY";
-
-📧 Contact
-
-Feel free to raise issues or suggestions via GitHub Issues.
-
-⸻
-
-Let me know if you need any more tweaks! 😊
